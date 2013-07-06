@@ -8,3 +8,7 @@ ctrl-cmd
     with the screen.
 
 It is a modified version of the `CMD.EXE` from [ReactOS](http://www.reactos.org).
+
+## Downloading the upstream source
+
+    ./download.sh
